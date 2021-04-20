@@ -13,6 +13,14 @@
     letter-spacing: 5px;
   }
   
+  .navbar-brand a{
+    color: #777777 !important;
+  }
+
+  .navbar-brand a:hover{
+    color: #1abc9c !important;
+    style: none;
+  }
   .navbar-nav li a:hover {
     color: #1abc9c !important;
   }
